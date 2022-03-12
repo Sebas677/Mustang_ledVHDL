@@ -9,7 +9,7 @@ Una vez que la direccional comience su rutina, ésta tendrá que terminar hasta 
 Las luces traseras cambiarán 1 vez por segundo.
 Las dos direccionales no pueden estar seleccionadas al mismo tiempo.
 
-IDEA:
+IDEA: a pesar de que un auto esté apagado se pueden encender las luces intermitentes más no las direccionales. Es por ello que si todos los switches están en '0' y se activa el sw1, se encienden unas intermitenes bajas. En caso de activar el sw9 es como si se encendiera el coche, por lo que las luces de contorno se mantienen encendidas. Posteriormente y manteniendo activo en alto el sw9 se pueden usar el sw2 (direccional izquierda), sw1 (intermitentes altas) y sw0 (direccional derecha).
 
 Funcionamiento de switches:
 SW9: ENCIENDE "VEHICULO" Y PRENDE LUCES DE CONTORNO
